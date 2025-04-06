@@ -25,8 +25,8 @@ int main(){
                   min = chute + 1;
 
                 }
-                if(i == 10){
-                    printf("nao consegui adivinhar\n");
+                if(i == 9){
+                    printf("Infelizmente nao consegui adivinhar\n");
                 }  
             }
             printf("Pense em um numero de 1 a 1023\n");
